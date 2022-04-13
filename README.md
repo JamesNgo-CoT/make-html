@@ -205,11 +205,15 @@ const testComponent = function test({ text, children }) {
 };
 ```
 
+_Note: components are function that returns make-html options._
+
 ### Registration
 
 ``` JavaScript
 makeHtml.register(testComponent);
 ```
+
+_Note: registration will associate the component (function) with the function's name._
 
 ### Example 1
 
