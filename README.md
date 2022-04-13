@@ -134,6 +134,7 @@ Console Log
 
 ```
 <p>HELLO WORLD</p>
+<p>HELLO WORLD</p>
 ```
 
 ## Create Document Fragment
